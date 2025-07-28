@@ -35,9 +35,9 @@ This Power BI project is based on a coffee shop’s monthly sales dataset. The g
 
 ### 📌 Dashboard Preview
 
-| Sales Overview                                                                                                               | Category Analysis                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| ![Dashboard](https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-PowerBi/blob/main/Dashboard.png) | ![Category Chart](https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Excel/blob/main/images/category_chart.png) |
+| Sales Overview                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| ![Dashboard](https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-PowerBi/blob/main/Dashboard.png) |
 
 ---
 
