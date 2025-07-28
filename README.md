@@ -7,6 +7,8 @@ Analyze and visualize coffee shop sales data to uncover business trends, custome
 This Power BI project is based on a coffee shop’s monthly sales dataset. The goal is to provide management with interactive dashboards and actionable insights for making data-driven decisions.
 
 > 🔧 Tools Used: Power BI | Excel (for data cleaning)
+
+
 > 📊 Skills: Data Cleaning, DAX, Visualization, KPI Tracking, Dashboard Design
 
 ---
@@ -35,7 +37,7 @@ This Power BI project is based on a coffee shop’s monthly sales dataset. The g
 
 | Sales Overview                                                                                                               | Category Analysis                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| ![Sales Dashboard](https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Excel/blob/main/images/sales_dashboard.png) | ![Category Chart](https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Excel/blob/main/images/category_chart.png) |
+| ![Dashboard](https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-PowerBi/blob/main/Dashboard.png) | ![Category Chart](https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Excel/blob/main/images/category_chart.png) |
 
 ---
 
