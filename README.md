@@ -61,7 +61,10 @@ This Power BI project is based on a coffee shop’s monthly sales dataset. The g
 
 The Power BI dashboard helps coffee shop management quickly track business performance and make data-driven decisions regarding inventory, staffing, and promotions.
 
+---
 
 ### Contact
-For any questions or feedback, please contact me at meabhaykr@gmail.com.
-LinkedIn | GitHub | Portfolio
+
+For any questions or feedback, please contact me at [meabhaykr@gmail.com](mailto:meabhaykr@gmail.com).
+
+[LinkedIn](https://www.linkedin.com/in/meabhaykr) | [GitHub](https://github.com/meabhaykr) | [Portfolio](https://meabhaykr.github.io)
